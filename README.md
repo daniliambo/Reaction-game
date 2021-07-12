@@ -1,2 +1,2 @@
 # reaction-game
-How quickly can you react?
+How quickly can you react? (MDN)
